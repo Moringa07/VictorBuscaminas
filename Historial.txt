@@ -1,0 +1,2 @@
+Nombre     Fecha        Hora     Tablero     Minas     Jugadas     Resultado     
+mariana     12/12/23     22:25     6x6          10          5          Derrota
